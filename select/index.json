@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Hurrah!!",
+  "base_artist": "NIJISANJI",
+  "createdAt": "2026-02-11T02:27:22.714702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Built then burnt (Hurrah! Hurrah!)",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": true,
+      "path": "select/01_Built_then_burnt_(Hurrah!_Hurrah!)_A_Silver_Mt._Zion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Butterfly, Butterfly [The Last Hurrah]",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/02_Butterfly,_Butterfly_[The_Last_Hurrah]_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Butterfly, Butterfly (The Last Hurrah) [Steve Osborne Version]",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/03_Butterfly,_Butterfly_(The_Last_Hurrah)_[Steve_Osborne_Version]_A-ha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hurrah",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/04_Hurrah_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hurrah!",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/05_Hurrah!_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Built Then Burnt [Hurrah! Hurrah!]",
+      "artist": "The Silver Mt. Zion Memorial Orchestra & Tra-La-La Band",
+      "has_synced": true,
+      "path": "select/06_Built_Then_Burnt_[Hurrah!_Hurrah!]_The_Silver_Mt._Zion_Memorial_Orchestra_&_Tra-La-La_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Last Hurrah",
+      "artist": "Vetiver",
+      "has_synced": true,
+      "path": "select/07_Last_Hurrah_Vetiver.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Hurrah",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/08_Last_Hurrah_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Butterfly, Butterfly (The Last Hurrah)",
+      "artist": "a-ha",
+      "has_synced": true,
+      "path": "select/09_Butterfly,_Butterfly_(The_Last_Hurrah)_a-ha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Butterfly, Butterfly (The Last Hurrah)*",
+      "artist": "a-ha",
+      "has_synced": true,
+      "path": "select/10_Butterfly,_Butterfly_(The_Last_Hurrah)_a-ha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Hurrah (Acoustic)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/11_Last_Hurrah_(Acoustic)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One More Last Hurrah",
+      "artist": "Del Amitri",
+      "has_synced": true,
+      "path": "select/12_One_More_Last_Hurrah_Del_Amitri.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Last Hurrah",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/13_Last_Hurrah_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ireland Boys Hurrah",
+      "artist": "The Irish Rovers",
+      "has_synced": false,
+      "path": "select/14_Ireland_Boys_Hurrah_The_Irish_Rovers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Last Hurrah",
+      "artist": "Run Kid Run",
+      "has_synced": true,
+      "path": "select/15_Last_Hurrah_Run_Kid_Run.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hip Hip Hip Hurrah",
+      "artist": "Claude François",
+      "has_synced": true,
+      "path": "select/16_Hip_Hip_Hip_Hurrah_Claude_François.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Last Hurrah [Official Music Video]",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/17_Last_Hurrah_[Official_Music_Video]_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hurrah!!",
+      "artist": "Nijisanji",
+      "has_synced": false,
+      "path": "select/pl_01_Hurrah!!_Nijisanji.txt"
+    }
+  ]
+}
